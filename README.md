@@ -1,2 +1,2 @@
 # Movies
-React project
+React project for learning React
